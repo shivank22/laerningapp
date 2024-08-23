@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/38fa60a7-260e-4488-b732-61b2e03304ea/resourceGroups/AzWebApp/providers/Microsoft.Web/sites/learningApp22",
+    "appService.deploySubpath": "bin/Publish"
+}
